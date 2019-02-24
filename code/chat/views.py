@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-from .respond.main import Respond
+from respond.main import Respond
 
 # Create your views here.
 
