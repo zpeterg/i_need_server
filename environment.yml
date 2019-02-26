@@ -41,6 +41,7 @@ dependencies:
     - portend==2.3
     - pycryptodome==3.7.3
     - pylint==2.2.2
+    - pymongo==3.7.2
     - pyspellchecker==0.3.0
     - python-docx==0.8.10
     - pywin32==224
